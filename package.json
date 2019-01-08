@@ -1,7 +1,7 @@
 {
-  "name": "markdown-unchecked-counter",
-  "displayName": "markdown-unchecked-counter",
-  "description": "",
+  "name": "markdown-uncheckbox-counter",
+  "displayName": "Markdown Uncheckbox Counter",
+  "description": "Unchecked count for Markdown format",
   "version": "0.1.0",
   "publisher": "trash-feed",
   "repository": {
