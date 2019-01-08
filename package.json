@@ -2,7 +2,7 @@
   "name": "markdown-uncheckbox-counter",
   "displayName": "Markdown Uncheckbox Counter",
   "description": "Unchecked count for Markdown format",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "trash-feed",
   "repository": {
     "type": "git",
